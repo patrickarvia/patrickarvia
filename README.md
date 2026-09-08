@@ -4,8 +4,7 @@
 
 I work on enterprise sales, go-to-market strategy, forecasting, pipeline quality, and building more repeatable sales motions. I also experiment with lightweight tools that turn sales ideas into something practical.
 
-## Current experiments
-
+## Projects & Experiments
 ### [Cairn GTM Pipeline Quality Calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/)
 
 A lightweight tool for evaluating enterprise opportunities using deal evidence such as executive sponsorship, multithreading, budget, procurement, security, and next-step discipline — not just pipeline coverage.
