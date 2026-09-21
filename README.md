@@ -2,12 +2,19 @@
 
 **Enterprise Sales & GTM | Founder, Cairn GTM**
 
-I work on enterprise sales, go-to-market strategy, forecasting, pipeline quality, and building more repeatable sales motions. I also experiment with lightweight tools that turn sales ideas into something practical.
+I work on enterprise sales, go-to-market strategy, forecasting, pipeline quality, and building repeatable sales motions. I also build practical tools that turn sales data and deal evidence into clearer decisions.
 
 ## Projects & Experiments
-### [Cairn GTM Pipeline Quality Calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/)
 
-A lightweight tool for evaluating enterprise opportunities using deal evidence such as executive sponsorship, multithreading, budget, procurement, security, and next-step discipline — not just pipeline coverage.
+### [Cairn Pipeline Analyzer](https://patrickarvia.github.io/cairn-pipeline-analyzer/)
+
+Analyze a CRM export for deal risk, stale opportunities, missing stakeholders, forecast gaps, and recommended next actions.
+
+[Analyze your pipeline](https://patrickarvia.github.io/cairn-pipeline-analyzer/) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-analyzer)
+
+### [Cairn Deal Calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/)
+
+Evaluate a single enterprise opportunity using deal evidence such as executive sponsorship, multithreading, budget, procurement, security, and next-step discipline.
 
 [Open the calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-calculator)
 
