@@ -49,7 +49,6 @@ I write about enterprise sales, forecasting, pipeline management, deal execution
 - [Why 3x Pipeline Coverage Tells You Almost Nothing](https://medium.com/@patrickarvia/why-3x-pipeline-coverage-tells-you-almost-nothing-39d479dd03b6?source=rss-8c4e058fa82f------2)
 <!-- BLOG-POST-LIST:END -->
 
-[Read more on Substack](https://patrickarvia.substack.com) · [Medium](https://medium.com/@patrickarvia)
 
 ## What I'm Exploring
 
