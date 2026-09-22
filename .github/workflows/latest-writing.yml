@@ -1,0 +1,25 @@
+name: Update latest writing
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update latest writing
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://patrickarvia.substack.com/feed"
+          max_post_count: 3
+          template: "- [$title]($url)"
+          commit_message: "Update latest writing"
