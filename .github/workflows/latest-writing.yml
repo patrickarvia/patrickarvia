@@ -21,5 +21,4 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@patrickarvia"
           max_post_count: 3
-          template: "- [$title]($url)"
           commit_message: "Update latest writing"
