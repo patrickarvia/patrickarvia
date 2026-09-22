@@ -19,9 +19,7 @@ jobs:
       - name: Update latest writing
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://patrickarvia.substack.com/feed"
+          feed_list: "https://medium.com/feed/@patrickarvia"
           max_post_count: 3
           template: "- [$title]($url)"
           commit_message: "Update latest writing"
-          user_agent: "Mozilla/5.0"
-          accept_header: "application/rss+xml,application/xml,text/xml,*/*"
