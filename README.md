@@ -1,3 +1,5 @@
+[![Cairn GTM](./cairn-gtm-header.png)](https://cairngtm.com)
+
 # Patrick Arvia
 
 **Enterprise GTM operator building practical tools around pipeline intelligence, forecasting, and AI.**
