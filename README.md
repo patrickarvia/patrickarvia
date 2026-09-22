@@ -43,17 +43,8 @@ It looks at signals such as:
 
 I write about enterprise sales, forecasting, pipeline management, deal execution, and GTM.
 
-### [Your CRM Stage Doesn't Tell You Whether a Deal Is Real](https://patrickarvia.substack.com/p/your-crm-stage-doesnt-tell-you-whether)
-
-Why deal evidence is often more useful than CRM stage when evaluating pipeline.
-
-### Enterprise Forecasting Is Really Evidence Management
-
-Forecast accuracy improves when teams focus on what has actually happened in a deal rather than what they hope will happen.
-
-### Enterprise Sales Is Mostly Consensus Engineering
-
-Large deals move when enough people inside an organization become aligned around making a change.
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [Read more on Substack](https://patrickarvia.substack.com) · [Medium](https://medium.com/@patrickarvia)
 
