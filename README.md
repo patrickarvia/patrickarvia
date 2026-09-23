@@ -61,4 +61,4 @@ I write about enterprise sales, forecasting, pipeline management, deal execution
 
 ## Elsewhere
 
-[Cairn GTM](https://cairngtm.com) · [LinkedIn](https://www.linkedin.com/in/patrickarvia) · [Substack](https://patrickarvia.substack.com) · [Medium](https://medium.com/@patrickarvia) · [X](https://x.com/patrickarvia)
+[Cairn GTM](https://cairngtm.com) · [LinkedIn](https://www.linkedin.com/in/patrickarvia) · [Substack](https://patrickarvia.substack.com) · [Medium](https://medium.com/@patrickarvia) · [X](https://x.com/CairnGTM)
