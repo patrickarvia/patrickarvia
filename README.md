@@ -20,7 +20,7 @@ The goal is to analyze:
 
 Longer term, I'm interested in how AI can help sales teams identify what actually needs attention without adding another layer of CRM administration.
 
-[Analyze your pipeline](https://patrickarvia.github.io/cairn-pipeline-analyzer/) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-analyzer)
+[Analyze your pipeline](https://cairn-pipeline-analyzer.vercel.app) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-analyzer)
 
 ## Tools & Experiments
 
