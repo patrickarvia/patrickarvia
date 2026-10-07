@@ -37,7 +37,7 @@ It looks at signals such as:
 - Security and legal
 - Next-step discipline
 
-[Open the calculator] · [View the repository]
+[Open the calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-calculator)
 
 ### Pawstop
 
@@ -47,7 +47,7 @@ Pawstop finds potential stops along a real route, then evaluates them based on d
 
 Built as a product experiment in routing, scoring, location discovery, and user experience.
 
-[Try Pawstop] · [View the repository]
+[Try Pawstop](https://pawstop-one.vercel.app/) · [View the repository](https://github.com/patrickarvia/pawstop)
 
 ## Latest Writing
 
