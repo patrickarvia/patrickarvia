@@ -6,7 +6,7 @@
 
 Founder of [Cairn GTM](https://cairngtm.com). I work on enterprise sales, go-to-market strategy, deal execution, forecasting, and building more repeatable revenue motions.
 
-I use this GitHub to turn some of those ideas into lightweight tools and experiments.
+I use this GitHub to turn ideas into practical tools, product experiments, and working software.
 
 ## Currently Building
 
