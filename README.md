@@ -37,7 +37,17 @@ It looks at signals such as:
 - Security and legal
 - Next-step discipline
 
-[Open the calculator](https://patrickarvia.github.io/cairn-pipeline-calculator/) · [View the repository](https://github.com/patrickarvia/cairn-pipeline-calculator)
+[Open the calculator] · [View the repository]
+
+### Pawstop
+
+A dog-friendly road trip planner built around the route you're actually driving.
+
+Pawstop finds potential stops along a real route, then evaluates them based on drive time, detour, dog access, and available place evidence.
+
+Built as a product experiment in routing, scoring, location discovery, and user experience.
+
+[Try Pawstop] · [View the repository]
 
 ## Latest Writing
 
