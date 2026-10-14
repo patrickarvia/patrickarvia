@@ -54,9 +54,9 @@ Built as a product experiment in routing, scoring, location discovery, and user 
 I write about enterprise sales, forecasting, pipeline management, deal execution, and GTM.
 
 <!-- BLOG-POST-LIST:START -->
+- [Cold Calling Is Won or Lost in the First Five Seconds](https://medium.com/@patrickarvia/cold-calling-is-won-or-lost-in-the-first-five-seconds-13f7c490c19b?source=rss-8c4e058fa82f------2)
 - [Your CRM Stage Doesn’t Tell You Whether a Deal Is Real](https://medium.com/@patrickarvia/your-crm-stage-doesnt-tell-you-whether-a-deal-is-real-30ad9a4ae056?source=rss-8c4e058fa82f------2)
 - [I Built a Free Tool to Analyze Pipeline Quality](https://medium.com/@patrickarvia/i-built-a-free-tool-to-analyze-pipeline-quality-2e32bde84731?source=rss-8c4e058fa82f------2)
-- [Why 3x Pipeline Coverage Tells You Almost Nothing](https://medium.com/@patrickarvia/why-3x-pipeline-coverage-tells-you-almost-nothing-39d479dd03b6?source=rss-8c4e058fa82f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
